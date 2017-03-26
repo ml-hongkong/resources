@@ -11,3 +11,6 @@
 
 ## Generative Adversarial Networks
 - [Stopping GAN Violence: Generative Unadversarial Networks](https://arxiv.org/abs/1703.02528)
+
+## Image and Vision
+- [An extensive list of deep learning resources for computer vision maintained by MIT](https://github.com/kjw0612/awesome-deep-vision#imagenet-classification)
