@@ -1,16 +1,13 @@
-## Computation and Language
+# Business
+- [**AI Company**](https://github.com/ml-hongkong/resources/wiki/AI-Company)
 
-- [A Comparative Study of Word Embeddings for Reading Comprehension](https://arxiv.org/abs/1703.00993)
-- [A Thorough Examination of theCNN/Daily Mail Reading Comprehension Task](https://arxiv.org/abs/1606.02858)
-- [Gated-Attention Readers for Text Comprehension](https://arxiv.org/abs/1606.01549)
-- [Linguistic Knowledge as Memory for Recurrent Neural Networks](https://arxiv.org/abs/1703.02620)
+# Events / Conferences
+- [**Conferences**](https://github.com/ml-hongkong/resources/wiki/Conferences)
+- [**Events**](https://github.com/ml-hongkong/resources/wiki/Events)
 
-## Recurrent Network
+# Papers
 
-- [Machine Learning on Sequential Data Using a Recurrent Weighted Average](https://arxiv.org/abs/1703.01253)
-
-## Generative Adversarial Networks
-- [Stopping GAN Violence: Generative Unadversarial Networks](https://arxiv.org/abs/1703.02528)
-
-## Image and Vision
-- [An extensive list of deep learning resources for computer vision maintained by MIT](https://github.com/kjw0612/awesome-deep-vision#imagenet-classification)
+- [**Computer Vision**](https://github.com/ml-hongkong/resources/wiki/Computer-Vision)
+- [**Language / Information Processing**](https://github.com/ml-hongkong/resources/wiki/Language----Information-Processing)
+- [**Sound / Music**](https://github.com/ml-hongkong/resources/wiki/Sound---Music)
+- [**Robotic / Action Planning / Automouse**](https://github.com/ml-hongkong/resources/wiki/Robotic---Action-Planning---Automouse)
