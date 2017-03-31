@@ -12,3 +12,4 @@
 - [**Language / Information Processing**](https://github.com/ml-hongkong/resources/wiki/Language----Information-Processing)
 - [**Sound / Music**](https://github.com/ml-hongkong/resources/wiki/Sound---Music)
 - [**Robotic / Action Planning / Automouse**](https://github.com/ml-hongkong/resources/wiki/Robotic---Action-Planning---Automouse)
+- [**AGI**](https://github.com/ml-hongkong/resources/wiki/AGI)
