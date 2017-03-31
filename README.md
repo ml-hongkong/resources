@@ -7,6 +7,7 @@
 
 # Papers
 
+- [**General**](https://github.com/ml-hongkong/resources/wiki/General)
 - [**Computer Vision**](https://github.com/ml-hongkong/resources/wiki/Computer-Vision)
 - [**Language / Information Processing**](https://github.com/ml-hongkong/resources/wiki/Language----Information-Processing)
 - [**Sound / Music**](https://github.com/ml-hongkong/resources/wiki/Sound---Music)
