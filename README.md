@@ -11,5 +11,5 @@
 - [**Computer Vision**](https://github.com/ml-hongkong/resources/wiki/Computer-Vision)
 - [**Language / Information Processing**](https://github.com/ml-hongkong/resources/wiki/Language----Information-Processing)
 - [**Sound / Music**](https://github.com/ml-hongkong/resources/wiki/Sound---Music)
-- [**Robotic / Action Planning / Automouse**](https://github.com/ml-hongkong/resources/wiki/Robotic---Action-Planning---Automouse)
+- [**Automated Planning**](https://github.com/ml-hongkong/resources/wiki/Automated-Planning)
 - [**AGI**](https://github.com/ml-hongkong/resources/wiki/AGI)
