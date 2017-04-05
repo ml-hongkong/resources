@@ -13,5 +13,5 @@
 - [**Automated Planning**](https://github.com/ml-hongkong/resources/wiki/Automated-Planning)
 - [**AGI**](https://github.com/ml-hongkong/resources/wiki/AGI)
 
-# [Resources]
+# Resources
 - [**Dataset**](https://github.com/ml-hongkong/resources/wiki/Dataset)
