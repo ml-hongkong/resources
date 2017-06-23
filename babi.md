@@ -12,7 +12,7 @@ Facebook bAbI dataset 10k
 | GMemN2N[5] | 3 | 3.7 |
 | EntNet[6] | 0 | 0.5 |
 | QRN[7] | **0** | **0.3** |
-| RelNet[8] | 0.5 | 0.3 |
+| RelNet[8] | **0** | **0.3** |
 
 - [1] Neural Turing Machines
 - [2] Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes
