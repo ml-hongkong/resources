@@ -12,7 +12,7 @@ Facebook bAbI dataset 10k
 | GMemN2N[5] | 3 | 3.7 |
 | EntNet[6] | 0 | 0.5 |
 | QRN[7] | **0** | **0.3** |
-
+| RelNet[8] | **0** | **0.3** |
 
 - [1] Neural Turing Machines
 - [2] Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes
@@ -21,3 +21,4 @@ Facebook bAbI dataset 10k
 - [5] Dynamic Memory Networks for Visual and Textual Question Answering
 - [6] Gated End-to-End Memory Networks
 - [7] Query-Reduction Networks for Question Answering
+- [8] RelNet: End-to-end Modeling of Entities & Relations
